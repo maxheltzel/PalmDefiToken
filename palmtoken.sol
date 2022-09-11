@@ -472,7 +472,7 @@ contract Palm is ERC20, Ownable{
          }
      }
      
-     constructor() ERC20("PeakyDoge", "PDOGE") {
+     constructor() ERC20("Palm", "PLM") {
          //Mint tokens
          _mint(msg.sender, 200_000_000 * 10**18);
          
