@@ -23,7 +23,7 @@
  *  Symbol: PLM
  * 
  * 
- * Buy Tax 0%
+ * Buy Tax 1%
  *  Liquidity        1%
  *  Marketing        0%
  *  Buyback          0%
